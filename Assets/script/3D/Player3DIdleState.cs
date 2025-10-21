@@ -16,6 +16,15 @@ public class Player3DIdleState : Player3DState
     public override void Update()
     {
         base.Update();
+        if(targetDirection != Vector3.zero)
+        {
+            stateMachine.ChangeState(player.walkState);
+        }
+        else
+        {
+            targetDirection.y -= Physics.gravity.y;
+            player.cc.Move(player.moveSpeed * Time.deltaTime * targetDirection);
+        }
     }
 
     public override void Exit()

@@ -6,7 +6,7 @@ public class Player3D : MonoBehaviour
 {
     [Header("Move Info")]
     public float moveSpeed = 5.0f;
-    public float rotationSpeed = 15.0f;
+    public float rotationSpeed = 40.0f;
 
     #region 组件
     public CharacterController cc { get; private set; }
@@ -39,26 +39,5 @@ public class Player3D : MonoBehaviour
     void Update()
     {
         stateMachine.currentState.Update();
-
-        float horizontal = Input.GetAxisRaw("Horizontal");
-        float vertical = Input.GetAxisRaw("Vertical");
-
-        Vector3 moveDirection = new Vector3(horizontal, 0, vertical);
-        if (moveDirection != Vector3.zero)
-        {
-            anim.SetBool("Idle", false);
-            anim.SetBool("Walk", true);
-
-            Quaternion targetRotation = Quaternion.LookRotation(moveDirection);
-            transform.rotation = Quaternion.Lerp(transform.rotation, targetRotation, Time.deltaTime * rotationSpeed);
-        }
-        else
-        {
-            anim.SetBool("Idle", true);
-            anim.SetBool("Walk", false);
-        }
-        
-        moveDirection.y -= Physics.gravity.y;
-        cc.Move(moveSpeed * Time.deltaTime * moveDirection);
     }
 }

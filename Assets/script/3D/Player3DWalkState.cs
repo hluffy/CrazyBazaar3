@@ -16,6 +16,18 @@ public class Player3DWalkState : Player3DState
     public override void Update()
     {
         base.Update();
+        if(targetDirection == Vector3.zero)
+        {
+            stateMachine.ChangeState(player.idleState);
+        }
+        else
+        {
+            Quaternion targetRotation = Quaternion.LookRotation(targetDirection);
+            player.transform.rotation = Quaternion.Lerp(player.transform.rotation, targetRotation, Time.deltaTime * player.rotationSpeed);
+        
+            targetDirection.y -= Physics.gravity.y;
+            player.cc.Move(player.moveSpeed * Time.deltaTime * targetDirection);
+        }
     }
 
     public override void Exit()

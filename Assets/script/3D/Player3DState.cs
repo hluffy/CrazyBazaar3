@@ -8,6 +8,8 @@ public class Player3DState
     protected Player3D player;
     protected string animBoolName;
 
+    protected Vector3 targetDirection;
+
     public Player3DState(Player3DStateMachine _stateMachine,Player3D _player,string _animBoolName)
     {
         this.stateMachine = _stateMachine;
@@ -23,7 +25,9 @@ public class Player3DState
 
     public virtual void Update()
     {
-        
+        float horizontal = Input.GetAxisRaw("Horizontal");
+        float vertical = Input.GetAxisRaw("Vertical");
+        targetDirection = new Vector3(horizontal, 0f, vertical);
     }
     
     public virtual void Exit()
