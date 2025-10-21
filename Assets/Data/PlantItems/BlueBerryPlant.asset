@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fa8f3320cdf154683e8b8f93dbfd31, type: 3}
+  m_Name: BlueBerryPlant
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: BlueBerryPlant
+  desc: "\u84DD\u8393\u5E84\u7A3C\uFF0C\u7ED3\u591A\u4E2A\u679C\u5B50"
+  thumbnail: {fileID: -739923834, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  gameModel: {fileID: 5118235069514675437, guid: ec70ab6a58adcd4498444fc53d769d04, type: 3}
+  itemId: 384eb7c494d83ca4e84bbdb3b8eca216
+  seed: {fileID: 2143041351, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  seedling: {fileID: 299124609, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  harvestable: {fileID: 299124609, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  wilted: {fileID: -739923834, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  health: 0
+  maxHealth: 100
+  dayToGrow: 1
+  regrowable: 1
+  dayToRegrow: 1
+  harvestCount: 6
+  harvest: {fileID: 11400000, guid: ba7a0cf548418394db62f113bf78e483, type: 2}

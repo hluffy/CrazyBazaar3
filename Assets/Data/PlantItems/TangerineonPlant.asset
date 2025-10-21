@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fa8f3320cdf154683e8b8f93dbfd31, type: 3}
+  m_Name: TangerineonPlant
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: 
+  desc: "\u6A58\u5B50\u690D\u682A"
+  thumbnail: {fileID: -1018254477, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  gameModel: {fileID: 5118235069514675437, guid: 54ea4216b7cec1247b50b5789db57e71, type: 3}
+  itemId: 9915b6f8ecf16dd46ac11aca613be0fd
+  seed: {fileID: -490507006, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  seedling: {fileID: 1543264676, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  harvestable: {fileID: -1018254477, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  wilted: {fileID: -1946618107, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  health: 0
+  maxHealth: 100
+  dayToGrow: 1
+  regrowable: 1
+  dayToRegrow: 1
+  harvestCount: 6
+  harvest: {fileID: 11400000, guid: f33401e9222cdd845a50c1b728815496, type: 2}

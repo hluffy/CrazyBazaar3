@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fa8f3320cdf154683e8b8f93dbfd31, type: 3}
+  m_Name: CornPlant
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: 
+  desc: "\u7389\u7C73"
+  thumbnail: {fileID: 71899884, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  gameModel: {fileID: 5186459561776870799, guid: 248cf1224f06a804aa707f1fcd2b31e6, type: 3}
+  itemId: ff60d21e78373c94faabfa2ea33d7a71
+  seed: {fileID: -205227395, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  seedling: {fileID: -749204664, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  harvestable: {fileID: 71899884, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  wilted: {fileID: -1946618107, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  health: 0
+  maxHealth: 100
+  dayToGrow: 1
+  regrowable: 1
+  dayToRegrow: 1
+  harvestCount: 3
+  harvest: {fileID: 11400000, guid: 442bf45366a6397478ec171cdb5fd8b6, type: 2}

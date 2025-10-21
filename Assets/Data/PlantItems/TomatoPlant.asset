@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fa8f3320cdf154683e8b8f93dbfd31, type: 3}
+  m_Name: TomatoPlant
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: 
+  desc: "\u897F\u7EA2\u67FF\u5E84\u7A3C\uFF0C\u7ED3\u591A\u4E2A\u679C\u5B50"
+  thumbnail: {fileID: -1769100890, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  gameModel: {fileID: 3108558517875223137, guid: e0e7bba8dc88d8e42b62b1c87989f732, type: 3}
+  itemId: e93fa9932f91de049a22a1c7553ea57f
+  seed: {fileID: 182182627, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  seedling: {fileID: 2132483091, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  harvestable: {fileID: -1769100890, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  wilted: {fileID: -1946618107, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  health: 0
+  maxHealth: 100
+  dayToGrow: 1
+  regrowable: 1
+  dayToRegrow: 1
+  harvestCount: 3
+  harvest: {fileID: 11400000, guid: 442bf45366a6397478ec171cdb5fd8b6, type: 2}

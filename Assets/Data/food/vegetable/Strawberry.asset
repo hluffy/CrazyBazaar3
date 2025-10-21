@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94019799dc5b34a458617a2d573bd4af, type: 3}
+  m_Name: Strawberry
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: Strawberry
+  desc: "\u8349\u8393"
+  thumbnail: {fileID: -1141649989, guid: 62594617bad57c343b027e4d20cf765d, type: 3}
+  gameModel: {fileID: 805586601199061520, guid: 1b311b8ae17492047b6d04a6a9824eed, type: 3}
+  itemId: 831a46ecfcd9b634897b860522139519
+  foodType: 0
+  hunger: 0
+  blood: 0
+  rot: {fileID: 0}
+  maxStackingCount: 12
+  health: 0
+  maxHealth: 0

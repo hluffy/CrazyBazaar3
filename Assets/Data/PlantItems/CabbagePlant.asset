@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fa8f3320cdf154683e8b8f93dbfd31, type: 3}
+  m_Name: CabbagePlant
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: 
+  desc: "\u5927\u767D\u83DC\u690D\u682A\uFF0C\u53EF\u4EE5\u6536\u83B7\u5927\u767D\u83DC"
+  thumbnail: {fileID: -724316491, guid: 1516a65e4b1f71641b5a3fe1222f7b45, type: 3}
+  gameModel: {fileID: 1000014111768446, guid: 1eea9224e7e41a64cb692a8d666d110d, type: 3}
+  itemId: e8dbab34dba884748be94f124fc54173
+  seed: {fileID: 182182627, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  seedling: {fileID: 0}
+  harvestable: {fileID: 0}
+  wilted: {fileID: 0}
+  health: 0
+  maxHealth: 100
+  dayToGrow: 1
+  regrowable: 0
+  dayToRegrow: 0
+  harvestCount: 1
+  harvest: {fileID: 11400000, guid: 1490d429b2199724c8b2c637696ef9f4, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fa8f3320cdf154683e8b8f93dbfd31, type: 3}
+  m_Name: CarrotPlant
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: 
+  desc: "\u80E1\u841D\u535C\u690D\u682A\uFF0C\u6536\u83B7\u80E1\u841D\u535C"
+  thumbnail: {fileID: -1521936408, guid: 1516a65e4b1f71641b5a3fe1222f7b45, type: 3}
+  gameModel: {fileID: 1000011817031034, guid: 6786198d46dc468488b983c5c71af7ce, type: 3}
+  itemId: 1ce9682b7ad87ec428e43bf36e0bfece
+  seed: {fileID: -2140441527, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  seedling: {fileID: 1409946859, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  harvestable: {fileID: 1409946859, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  wilted: {fileID: 1409946859, guid: 0324648c275fb14469b6aa99378d8c34, type: 3}
+  health: 0
+  maxHealth: 100
+  dayToGrow: 1
+  regrowable: 0
+  dayToRegrow: 0
+  harvestCount: 1
+  harvest: {fileID: 11400000, guid: 32c35c8d281422c499fdb3bdde11f4c9, type: 2}

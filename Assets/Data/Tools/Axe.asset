@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20996e70ea4e15348aec437b45f7af9e, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: axe
+  desc: sword
+  thumbnail: {fileID: 21300000, guid: 8c1ee7a9b9b644f3855920e1807835f4, type: 3}
+  gameModel: {fileID: 5538386933121716428, guid: 2ecfcb4c71c423f49904a03054549309, type: 3}
+  itemId: 4fe76a301d607ec4ab871418196374f9
+  toolType: 2
+  durable: 100
+  strength: 0
+  consume: 0
+  weapon:
+    sprite: {fileID: 21300000, guid: 8c1ee7a9b9b644f3855920e1807835f4, type: 3}
+    animName: SwordAttack
+  initPosition: {x: 0, y: 0, z: 0}
+  initRotation: {x: 0, y: 0, z: 0, w: 0}
+  damage: 19
+  waste: {fileID: 11400000, guid: 6f039c639ac0fdf4e8196c990a43dabf, type: 2}
+  maxStackingCount: 1

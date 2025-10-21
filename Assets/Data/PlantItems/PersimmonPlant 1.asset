@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fa8f3320cdf154683e8b8f93dbfd31, type: 3}
+  m_Name: PersimmonPlant 1
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: 
+  desc: "\u67FF\u5B50\u690D\u682A"
+  thumbnail: {fileID: -227804948, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  gameModel: {fileID: 5118235069514675437, guid: 74145760d19df7e438763a3f568a3fd0, type: 3}
+  itemId: e50503f86733d8c4da1003ab40033f08
+  seed: {fileID: 1259252369, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  seedling: {fileID: 440113828, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  harvestable: {fileID: -227804948, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  wilted: {fileID: -1946618107, guid: 87ad130156e366f498c717acd66049cb, type: 3}
+  health: 0
+  maxHealth: 100
+  dayToGrow: 1
+  regrowable: 1
+  dayToRegrow: 1
+  harvestCount: 6
+  harvest: {fileID: 11400000, guid: 761391afb866179439b95bc9dc17ad7a, type: 2}

@@ -1,0 +1,364 @@
+x,y,生态类型,生态属性,人口,人员信息,农场数量,农场信息,生态名称
+43,69,land,house,4,"[{'age': 4, 'gender': 'male'}, {'age': 17, 'gender': 'female'}, {'age': 32, 'gender': 'male'}, {'age': 54, 'gender': 'male'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [43, 69], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+43,69,land,house,4,"[{'age': 4, 'gender': 'male'}, {'age': 17, 'gender': 'female'}, {'age': 32, 'gender': 'male'}, {'age': 54, 'gender': 'male'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [43, 69], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+47,69,land,house,1,"[{'age': 19, 'gender': 'male'}]",2,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [47, 69], ""envi"": ""land"", ""house"": null, ""plant"": ""铃兰"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""landFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [47, 69], ""envi"": ""land"", ""house"": null, ""plant"": ""小麦"", ""animal"": null, ""biomeType"": ""plant""}}]",
+47,69,land,house,1,"[{'age': 19, 'gender': 'male'}]",2,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [47, 69], ""envi"": ""land"", ""house"": null, ""plant"": ""铃兰"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""landFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [47, 69], ""envi"": ""land"", ""house"": null, ""plant"": ""小麦"", ""animal"": null, ""biomeType"": ""plant""}}]",
+52,68,land,house,2,"[{'age': 76, 'gender': 'female'}, {'age': 34, 'gender': 'male'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [52, 68], ""envi"": ""land"", ""house"": null, ""plant"": ""苹果"", ""animal"": null, ""biomeType"": ""plant""}}]",
+52,68,land,house,2,"[{'age': 76, 'gender': 'female'}, {'age': 34, 'gender': 'male'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [52, 68], ""envi"": ""land"", ""house"": null, ""plant"": ""苹果"", ""animal"": null, ""biomeType"": ""plant""}}]",
+34,64,land,house,2,"[{'age': 5, 'gender': 'male'}, {'age': 27, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [34, 64], ""envi"": ""land"", ""house"": null, ""plant"": ""枫树"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [34, 64], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+34,64,land,house,2,"[{'age': 5, 'gender': 'male'}, {'age': 27, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [34, 64], ""envi"": ""land"", ""house"": null, ""plant"": ""枫树"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [34, 64], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+31,55,land,house,4,"[{'age': 8, 'gender': 'male'}, {'age': 15, 'gender': 'male'}, {'age': 21, 'gender': 'female'}, {'age': 28, 'gender': 'female'}]",2,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [31, 55], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""熊"", ""biomeType"": ""animal""}}, {""featureType"": ""landFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [31, 55], ""envi"": ""land"", ""house"": null, ""plant"": ""小麦"", ""animal"": null, ""biomeType"": ""plant""}}]",
+31,55,land,house,4,"[{'age': 8, 'gender': 'male'}, {'age': 15, 'gender': 'male'}, {'age': 21, 'gender': 'female'}, {'age': 28, 'gender': 'female'}]",2,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [31, 55], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""熊"", ""biomeType"": ""animal""}}, {""featureType"": ""landFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [31, 55], ""envi"": ""land"", ""house"": null, ""plant"": ""小麦"", ""animal"": null, ""biomeType"": ""plant""}}]",
+34,55,land,house,2,"[{'age': 26, 'gender': 'female'}, {'age': 54, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [34, 55], ""envi"": ""land"", ""house"": null, ""plant"": ""红蘑菇"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""pond"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [34, 55], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鹿"", ""biomeType"": ""animal""}}]",
+34,55,land,house,2,"[{'age': 26, 'gender': 'female'}, {'age': 54, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [34, 55], ""envi"": ""land"", ""house"": null, ""plant"": ""红蘑菇"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""pond"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [34, 55], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鹿"", ""biomeType"": ""animal""}}]",
+30,50,land,house,2,"[{'age': 64, 'gender': 'male'}, {'age': 77, 'gender': 'female'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [30, 50], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鸭"", ""biomeType"": ""animal""}}]",
+30,50,land,house,2,"[{'age': 64, 'gender': 'male'}, {'age': 77, 'gender': 'female'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [30, 50], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鸭"", ""biomeType"": ""animal""}}]",
+34,50,land,house,4,"[{'age': 79, 'gender': 'male'}, {'age': 70, 'gender': 'male'}, {'age': 58, 'gender': 'male'}, {'age': 56, 'gender': 'female'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [34, 50], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+34,50,land,house,4,"[{'age': 79, 'gender': 'male'}, {'age': 70, 'gender': 'male'}, {'age': 58, 'gender': 'male'}, {'age': 56, 'gender': 'female'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [34, 50], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+44,35,land,house,3,"[{'age': 60, 'gender': 'female'}, {'age': 49, 'gender': 'male'}, {'age': 8, 'gender': 'male'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [44, 35], ""envi"": ""land"", ""house"": null, ""plant"": ""灌木"", ""animal"": null, ""biomeType"": ""plant""}}]",
+44,35,land,house,3,"[{'age': 60, 'gender': 'female'}, {'age': 49, 'gender': 'male'}, {'age': 8, 'gender': 'male'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [44, 35], ""envi"": ""land"", ""house"": null, ""plant"": ""灌木"", ""animal"": null, ""biomeType"": ""plant""}}]",
+49,34,land,house,4,"[{'age': 5, 'gender': 'female'}, {'age': 22, 'gender': 'male'}, {'age': 40, 'gender': 'female'}, {'age': 79, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [49, 34], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+49,34,land,house,4,"[{'age': 5, 'gender': 'female'}, {'age': 22, 'gender': 'male'}, {'age': 40, 'gender': 'female'}, {'age': 79, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [49, 34], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+62,55,land,house,4,"[{'age': 8, 'gender': 'male'}, {'age': 61, 'gender': 'male'}, {'age': 25, 'gender': 'male'}, {'age': 25, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [62, 55], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+62,55,land,house,4,"[{'age': 8, 'gender': 'male'}, {'age': 61, 'gender': 'male'}, {'age': 25, 'gender': 'male'}, {'age': 25, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [62, 55], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+66,55,land,house,2,"[{'age': 12, 'gender': 'female'}, {'age': 40, 'gender': 'female'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [66, 55], ""envi"": ""land"", ""house"": null, ""plant"": ""白蘑菇"", ""animal"": null, ""biomeType"": ""plant""}}]",
+66,55,land,house,2,"[{'age': 12, 'gender': 'female'}, {'age': 40, 'gender': 'female'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [66, 55], ""envi"": ""land"", ""house"": null, ""plant"": ""白蘑菇"", ""animal"": null, ""biomeType"": ""plant""}}]",
+62,50,land,house,4,"[{'age': 61, 'gender': 'male'}, {'age': 64, 'gender': 'female'}, {'age': 45, 'gender': 'male'}, {'age': 54, 'gender': 'female'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [62, 50], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""牛"", ""biomeType"": ""animal""}}]",
+62,50,land,house,4,"[{'age': 61, 'gender': 'male'}, {'age': 64, 'gender': 'female'}, {'age': 45, 'gender': 'male'}, {'age': 54, 'gender': 'female'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [62, 50], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""牛"", ""biomeType"": ""animal""}}]",
+65,50,land,house,4,"[{'age': 61, 'gender': 'female'}, {'age': 7, 'gender': 'male'}, {'age': 36, 'gender': 'female'}, {'age': 51, 'gender': 'female'}]",2,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [65, 50], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""羊"", ""biomeType"": ""animal""}}, {""featureType"": ""seaFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [65, 50], ""envi"": ""land"", ""house"": null, ""plant"": ""白蘑菇"", ""animal"": null, ""biomeType"": ""plant""}}]",
+65,50,land,house,4,"[{'age': 61, 'gender': 'female'}, {'age': 7, 'gender': 'male'}, {'age': 36, 'gender': 'female'}, {'age': 51, 'gender': 'female'}]",2,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [65, 50], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""羊"", ""biomeType"": ""animal""}}, {""featureType"": ""seaFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [65, 50], ""envi"": ""land"", ""house"": null, ""plant"": ""白蘑菇"", ""animal"": null, ""biomeType"": ""plant""}}]",
+62,46,land,house,3,"[{'age': 60, 'gender': 'male'}, {'age': 69, 'gender': 'female'}, {'age': 9, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [62, 46], ""envi"": ""land"", ""house"": null, ""plant"": ""葡萄藤"", ""animal"": null, ""biomeType"": ""plant""}}]",
+62,46,land,house,3,"[{'age': 60, 'gender': 'male'}, {'age': 69, 'gender': 'female'}, {'age': 9, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [62, 46], ""envi"": ""land"", ""house"": null, ""plant"": ""葡萄藤"", ""animal"": null, ""biomeType"": ""plant""}}]",
+65,46,land,house,3,"[{'age': 20, 'gender': 'female'}, {'age': 57, 'gender': 'male'}, {'age': 24, 'gender': 'male'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [65, 46], ""envi"": ""land"", ""house"": null, ""plant"": ""白蘑菇"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [65, 46], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""熊"", ""biomeType"": ""animal""}}]",
+65,46,land,house,3,"[{'age': 20, 'gender': 'female'}, {'age': 57, 'gender': 'male'}, {'age': 24, 'gender': 'male'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [65, 46], ""envi"": ""land"", ""house"": null, ""plant"": ""白蘑菇"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [65, 46], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""熊"", ""biomeType"": ""animal""}}]",
+33,82,sea,house,3,"[{'age': 24, 'gender': 'male'}, {'age': 74, 'gender': 'male'}, {'age': 71, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [33, 82], ""envi"": ""sea"", ""house"": null, ""plant"": null, ""animal"": ""鸭子"", ""biomeType"": ""animal""}}]",
+33,82,sea,house,3,"[{'age': 24, 'gender': 'male'}, {'age': 74, 'gender': 'male'}, {'age': 71, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [33, 82], ""envi"": ""sea"", ""house"": null, ""plant"": null, ""animal"": ""鸭子"", ""biomeType"": ""animal""}}]",
+38,87,sea,house,2,"[{'age': 0, 'gender': 'male'}, {'age': 79, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [38, 87], ""envi"": ""sea"", ""house"": null, ""plant"": null, ""animal"": ""三文鱼"", ""biomeType"": ""animal""}}]",
+38,87,sea,house,2,"[{'age': 0, 'gender': 'male'}, {'age': 79, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [38, 87], ""envi"": ""sea"", ""house"": null, ""plant"": null, ""animal"": ""三文鱼"", ""biomeType"": ""animal""}}]",
+26,69,sea,house,3,"[{'age': 0, 'gender': 'male'}, {'age': 62, 'gender': 'female'}, {'age': 20, 'gender': 'male'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [26, 69], ""envi"": ""sea"", ""house"": null, ""plant"": ""芦苇"", ""animal"": null, ""biomeType"": ""plant""}}]",
+26,69,sea,house,3,"[{'age': 0, 'gender': 'male'}, {'age': 62, 'gender': 'female'}, {'age': 20, 'gender': 'male'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [26, 69], ""envi"": ""sea"", ""house"": null, ""plant"": ""芦苇"", ""animal"": null, ""biomeType"": ""plant""}}]",
+22,56,sea,house,3,"[{'age': 38, 'gender': 'female'}, {'age': 48, 'gender': 'female'}, {'age': 7, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [22, 56], ""envi"": ""sea"", ""house"": null, ""plant"": ""水稻"", ""animal"": null, ""biomeType"": ""plant""}}]",
+22,56,sea,house,3,"[{'age': 38, 'gender': 'female'}, {'age': 48, 'gender': 'female'}, {'age': 7, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [22, 56], ""envi"": ""sea"", ""house"": null, ""plant"": ""水稻"", ""animal"": null, ""biomeType"": ""plant""}}]",
+29,38,sea,house,1,"[{'age': 56, 'gender': 'female'}]",2,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [29, 38], ""envi"": ""sea"", ""house"": null, ""plant"": null, ""animal"": ""三文鱼"", ""biomeType"": ""animal""}}, {""featureType"": ""seaFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [29, 38], ""envi"": ""sea"", ""house"": null, ""plant"": ""水葱"", ""animal"": null, ""biomeType"": ""plant""}}]",
+29,38,sea,house,1,"[{'age': 56, 'gender': 'female'}]",2,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [29, 38], ""envi"": ""sea"", ""house"": null, ""plant"": null, ""animal"": ""三文鱼"", ""biomeType"": ""animal""}}, {""featureType"": ""seaFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [29, 38], ""envi"": ""sea"", ""house"": null, ""plant"": ""水葱"", ""animal"": null, ""biomeType"": ""plant""}}]",
+43,27,sea,house,3,"[{'age': 27, 'gender': 'female'}, {'age': 37, 'gender': 'female'}, {'age': 24, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [43, 27], ""envi"": ""sea"", ""house"": null, ""plant"": ""海带"", ""animal"": null, ""biomeType"": ""plant""}}]",
+43,27,sea,house,3,"[{'age': 27, 'gender': 'female'}, {'age': 37, 'gender': 'female'}, {'age': 24, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [43, 27], ""envi"": ""sea"", ""house"": null, ""plant"": ""海带"", ""animal"": null, ""biomeType"": ""plant""}}]",
+56,19,sea,house,1,"[{'age': 31, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [56, 19], ""envi"": ""sea"", ""house"": null, ""plant"": ""水稻"", ""animal"": null, ""biomeType"": ""plant""}}]",
+56,19,sea,house,1,"[{'age': 31, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [56, 19], ""envi"": ""sea"", ""house"": null, ""plant"": ""水稻"", ""animal"": null, ""biomeType"": ""plant""}}]",
+65,11,sea,house,2,"[{'age': 9, 'gender': 'male'}, {'age': 29, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [65, 11], ""envi"": ""sea"", ""house"": null, ""plant"": ""水稻"", ""animal"": null, ""biomeType"": ""plant""}}]",
+65,11,sea,house,2,"[{'age': 9, 'gender': 'male'}, {'age': 29, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [65, 11], ""envi"": ""sea"", ""house"": null, ""plant"": ""水稻"", ""animal"": null, ""biomeType"": ""plant""}}]",
+76,6,sea,house,1,"[{'age': 30, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [76, 6], ""envi"": ""sea"", ""house"": null, ""plant"": ""荷花"", ""animal"": null, ""biomeType"": ""plant""}}]",
+76,6,sea,house,1,"[{'age': 30, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [76, 6], ""envi"": ""sea"", ""house"": null, ""plant"": ""荷花"", ""animal"": null, ""biomeType"": ""plant""}}]",
+77,67,land,house,3,"[{'age': 37, 'gender': 'female'}, {'age': 41, 'gender': 'male'}, {'age': 56, 'gender': 'female'}]",2,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [77, 67], ""envi"": ""land"", ""house"": null, ""plant"": ""红蘑菇"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""pond"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [77, 67], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+77,67,land,house,3,"[{'age': 37, 'gender': 'female'}, {'age': 41, 'gender': 'male'}, {'age': 56, 'gender': 'female'}]",2,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [77, 67], ""envi"": ""land"", ""house"": null, ""plant"": ""红蘑菇"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""pond"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [77, 67], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+45,54,land,house,4,"[{'age': 34, 'gender': 'male'}, {'age': 34, 'gender': 'male'}, {'age': 15, 'gender': 'female'}, {'age': 74, 'gender': 'female'}]",2,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [45, 54], ""envi"": ""land"", ""house"": null, ""plant"": ""苹果"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""pond"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [45, 54], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""熊"", ""biomeType"": ""animal""}}]",
+45,54,land,house,4,"[{'age': 34, 'gender': 'male'}, {'age': 34, 'gender': 'male'}, {'age': 15, 'gender': 'female'}, {'age': 74, 'gender': 'female'}]",2,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [45, 54], ""envi"": ""land"", ""house"": null, ""plant"": ""苹果"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""pond"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [45, 54], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""熊"", ""biomeType"": ""animal""}}]",
+53,54,land,house,1,"[{'age': 41, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [53, 54], ""envi"": ""land"", ""house"": null, ""plant"": ""枫树"", ""animal"": null, ""biomeType"": ""plant""}}]",
+53,54,land,house,1,"[{'age': 41, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [53, 54], ""envi"": ""land"", ""house"": null, ""plant"": ""枫树"", ""animal"": null, ""biomeType"": ""plant""}}]",
+44,46,land,house,1,"[{'age': 9, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [44, 46], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""野兔"", ""biomeType"": ""animal""}}]",
+44,46,land,house,1,"[{'age': 9, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [44, 46], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""野兔"", ""biomeType"": ""animal""}}]",
+53,46,land,house,4,"[{'age': 66, 'gender': 'male'}, {'age': 11, 'gender': 'male'}, {'age': 20, 'gender': 'female'}, {'age': 12, 'gender': 'male'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [53, 46], ""envi"": ""land"", ""house"": null, ""plant"": ""铃兰"", ""animal"": null, ""biomeType"": ""plant""}}]",
+53,46,land,house,4,"[{'age': 66, 'gender': 'male'}, {'age': 11, 'gender': 'male'}, {'age': 20, 'gender': 'female'}, {'age': 12, 'gender': 'male'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [53, 46], ""envi"": ""land"", ""house"": null, ""plant"": ""铃兰"", ""animal"": null, ""biomeType"": ""plant""}}]",
+83,56,land,house,1,"[{'age': 60, 'gender': 'female'}]",2,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [83, 56], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}, {""featureType"": ""landFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [83, 56], ""envi"": ""land"", ""house"": null, ""plant"": ""灌木"", ""animal"": null, ""biomeType"": ""plant""}}]",
+83,56,land,house,1,"[{'age': 60, 'gender': 'female'}]",2,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [83, 56], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}, {""featureType"": ""landFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [83, 56], ""envi"": ""land"", ""house"": null, ""plant"": ""灌木"", ""animal"": null, ""biomeType"": ""plant""}}]",
+76,46,land,house,1,"[{'age': 69, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [76, 46], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+76,46,land,house,1,"[{'age': 69, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [76, 46], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+90,43,land,house,3,"[{'age': 29, 'gender': 'male'}, {'age': 3, 'gender': 'male'}, {'age': 51, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [90, 43], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+90,43,land,house,3,"[{'age': 29, 'gender': 'male'}, {'age': 3, 'gender': 'male'}, {'age': 51, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [90, 43], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+68,30,land,house,4,"[{'age': 55, 'gender': 'female'}, {'age': 64, 'gender': 'male'}, {'age': 45, 'gender': 'male'}, {'age': 20, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [68, 30], ""envi"": ""land"", ""house"": null, ""plant"": ""玉米"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""pond"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [68, 30], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""野兔"", ""biomeType"": ""animal""}}]",
+68,30,land,house,4,"[{'age': 55, 'gender': 'female'}, {'age': 64, 'gender': 'male'}, {'age': 45, 'gender': 'male'}, {'age': 20, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [68, 30], ""envi"": ""land"", ""house"": null, ""plant"": ""玉米"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""pond"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [68, 30], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""野兔"", ""biomeType"": ""animal""}}]",
+81,30,land,house,2,"[{'age': 61, 'gender': 'female'}, {'age': 5, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [81, 30], ""envi"": ""land"", ""house"": null, ""plant"": ""枫树"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [81, 30], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""野兔"", ""biomeType"": ""animal""}}]",
+81,30,land,house,2,"[{'age': 61, 'gender': 'female'}, {'age': 5, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [81, 30], ""envi"": ""land"", ""house"": null, ""plant"": ""枫树"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [81, 30], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""野兔"", ""biomeType"": ""animal""}}]",
+93,21,land,house,2,"[{'age': 42, 'gender': 'female'}, {'age': 21, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [93, 21], ""envi"": ""land"", ""house"": null, ""plant"": ""小麦"", ""animal"": null, ""biomeType"": ""plant""}}]",
+93,21,land,house,2,"[{'age': 42, 'gender': 'female'}, {'age': 21, 'gender': 'female'}]",1,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [93, 21], ""envi"": ""land"", ""house"": null, ""plant"": ""小麦"", ""animal"": null, ""biomeType"": ""plant""}}]",
+88,9,land,house,3,"[{'age': 79, 'gender': 'female'}, {'age': 63, 'gender': 'female'}, {'age': 44, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [88, 9], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鸡"", ""biomeType"": ""animal""}}]",
+88,9,land,house,3,"[{'age': 79, 'gender': 'female'}, {'age': 63, 'gender': 'female'}, {'age': 44, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [88, 9], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鸡"", ""biomeType"": ""animal""}}]",
+5,21,land,house,3,"[{'age': 38, 'gender': 'male'}, {'age': 4, 'gender': 'female'}, {'age': 66, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [5, 21], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""野兔"", ""biomeType"": ""animal""}}]",
+5,21,land,house,3,"[{'age': 38, 'gender': 'male'}, {'age': 4, 'gender': 'female'}, {'age': 66, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [5, 21], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""野兔"", ""biomeType"": ""animal""}}]",
+15,29,land,house,2,"[{'age': 25, 'gender': 'male'}, {'age': 23, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [15, 29], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+15,29,land,house,2,"[{'age': 25, 'gender': 'male'}, {'age': 23, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [15, 29], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+5,34,land,house,3,"[{'age': 51, 'gender': 'male'}, {'age': 37, 'gender': 'female'}, {'age': 41, 'gender': 'female'}]",2,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [5, 34], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""熊"", ""biomeType"": ""animal""}}, {""featureType"": ""landFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [5, 34], ""envi"": ""land"", ""house"": null, ""plant"": ""土豆"", ""animal"": null, ""biomeType"": ""plant""}}]",
+5,34,land,house,3,"[{'age': 51, 'gender': 'male'}, {'age': 37, 'gender': 'female'}, {'age': 41, 'gender': 'female'}]",2,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [5, 34], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""熊"", ""biomeType"": ""animal""}}, {""featureType"": ""landFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [5, 34], ""envi"": ""land"", ""house"": null, ""plant"": ""土豆"", ""animal"": null, ""biomeType"": ""plant""}}]",
+10,48,land,house,3,"[{'age': 42, 'gender': 'female'}, {'age': 46, 'gender': 'male'}, {'age': 38, 'gender': 'male'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [10, 48], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+10,48,land,house,3,"[{'age': 42, 'gender': 'female'}, {'age': 46, 'gender': 'male'}, {'age': 38, 'gender': 'male'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [10, 48], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+7,63,land,house,4,"[{'age': 62, 'gender': 'male'}, {'age': 17, 'gender': 'male'}, {'age': 27, 'gender': 'male'}, {'age': 17, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [7, 63], ""envi"": ""land"", ""house"": null, ""plant"": ""铃兰"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [7, 63], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""猪"", ""biomeType"": ""animal""}}]",
+7,63,land,house,4,"[{'age': 62, 'gender': 'male'}, {'age': 17, 'gender': 'male'}, {'age': 27, 'gender': 'male'}, {'age': 17, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [7, 63], ""envi"": ""land"", ""house"": null, ""plant"": ""铃兰"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [7, 63], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""猪"", ""biomeType"": ""animal""}}]",
+14,84,land,house,2,"[{'age': 61, 'gender': 'male'}, {'age': 80, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [14, 84], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鹿"", ""biomeType"": ""animal""}}]",
+14,84,land,house,2,"[{'age': 61, 'gender': 'male'}, {'age': 80, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [14, 84], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鹿"", ""biomeType"": ""animal""}}]",
+4,78,land,house,1,"[{'age': 24, 'gender': 'male'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [4, 78], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鸡"", ""biomeType"": ""animal""}}]",
+4,78,land,house,1,"[{'age': 24, 'gender': 'male'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [4, 78], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鸡"", ""biomeType"": ""animal""}}]",
+3,96,land,house,2,"[{'age': 15, 'gender': 'male'}, {'age': 9, 'gender': 'female'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [3, 96], ""envi"": ""land"", ""house"": null, ""plant"": ""灌木"", ""animal"": null, ""biomeType"": ""plant""}}]",
+3,96,land,house,2,"[{'age': 15, 'gender': 'male'}, {'age': 9, 'gender': 'female'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [3, 96], ""envi"": ""land"", ""house"": null, ""plant"": ""灌木"", ""animal"": null, ""biomeType"": ""plant""}}]",
+23,96,land,house,3,"[{'age': 67, 'gender': 'female'}, {'age': 72, 'gender': 'male'}, {'age': 76, 'gender': 'male'}]",2,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [23, 96], ""envi"": ""land"", ""house"": null, ""plant"": ""玫瑰"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [23, 96], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鸭"", ""biomeType"": ""animal""}}]",
+23,96,land,house,3,"[{'age': 67, 'gender': 'female'}, {'age': 72, 'gender': 'male'}, {'age': 76, 'gender': 'male'}]",2,"[{""featureType"": ""seaFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [23, 96], ""envi"": ""land"", ""house"": null, ""plant"": ""玫瑰"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [23, 96], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鸭"", ""biomeType"": ""animal""}}]",
+34,94,land,house,1,"[{'age': 74, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [34, 94], ""envi"": ""land"", ""house"": null, ""plant"": ""玉米"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [34, 94], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+34,94,land,house,1,"[{'age': 74, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [34, 94], ""envi"": ""land"", ""house"": null, ""plant"": ""玉米"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [34, 94], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""狐狸"", ""biomeType"": ""animal""}}]",
+65,92,land,house,2,"[{'age': 67, 'gender': 'female'}, {'age': 12, 'gender': 'male'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [65, 92], ""envi"": ""land"", ""house"": null, ""plant"": ""小麦"", ""animal"": null, ""biomeType"": ""plant""}}]",
+65,92,land,house,2,"[{'age': 67, 'gender': 'female'}, {'age': 12, 'gender': 'male'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [65, 92], ""envi"": ""land"", ""house"": null, ""plant"": ""小麦"", ""animal"": null, ""biomeType"": ""plant""}}]",
+76,96,land,house,3,"[{'age': 7, 'gender': 'female'}, {'age': 2, 'gender': 'female'}, {'age': 3, 'gender': 'male'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [76, 96], ""envi"": ""land"", ""house"": null, ""plant"": ""胡萝卜"", ""animal"": null, ""biomeType"": ""plant""}}]",
+76,96,land,house,3,"[{'age': 7, 'gender': 'female'}, {'age': 2, 'gender': 'female'}, {'age': 3, 'gender': 'male'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [76, 96], ""envi"": ""land"", ""house"": null, ""plant"": ""胡萝卜"", ""animal"": null, ""biomeType"": ""plant""}}]",
+82,84,land,house,4,"[{'age': 70, 'gender': 'male'}, {'age': 7, 'gender': 'female'}, {'age': 17, 'gender': 'male'}, {'age': 39, 'gender': 'female'}]",2,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [82, 84], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""羊"", ""biomeType"": ""animal""}}, {""featureType"": ""landFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [82, 84], ""envi"": ""land"", ""house"": null, ""plant"": ""土豆"", ""animal"": null, ""biomeType"": ""plant""}}]",
+82,84,land,house,4,"[{'age': 70, 'gender': 'male'}, {'age': 7, 'gender': 'female'}, {'age': 17, 'gender': 'male'}, {'age': 39, 'gender': 'female'}]",2,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 8, ""farmBiome"": {""position"": [82, 84], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""羊"", ""biomeType"": ""animal""}}, {""featureType"": ""landFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [82, 84], ""envi"": ""land"", ""house"": null, ""plant"": ""土豆"", ""animal"": null, ""biomeType"": ""plant""}}]",
+94,94,land,house,2,"[{'age': 9, 'gender': 'male'}, {'age': 63, 'gender': 'male'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [94, 94], ""envi"": ""land"", ""house"": null, ""plant"": ""灌木"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [94, 94], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""牛"", ""biomeType"": ""animal""}}]",
+94,94,land,house,2,"[{'age': 9, 'gender': 'male'}, {'age': 63, 'gender': 'male'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [94, 94], ""envi"": ""land"", ""house"": null, ""plant"": ""灌木"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [94, 94], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""牛"", ""biomeType"": ""animal""}}]",
+94,81,land,house,3,"[{'age': 27, 'gender': 'male'}, {'age': 67, 'gender': 'male'}, {'age': 36, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [94, 81], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""牛"", ""biomeType"": ""animal""}}]",
+94,81,land,house,3,"[{'age': 27, 'gender': 'male'}, {'age': 67, 'gender': 'male'}, {'age': 36, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [94, 81], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""牛"", ""biomeType"": ""animal""}}]",
+94,81,land,animal,0,None,0,,野兔
+14,96,land,merchant,0,None,0,,
+16,93,land,merchant,0,None,0,,
+22,94,land,animal,0,None,0,,熊
+25,91,land,animal,0,None,0,,鸡
+24,88,land,plant,0,None,0,,苹果
+29,90,land,merchant,0,None,0,,
+23,79,land,animal,0,None,0,,野兔
+16,79,land,plant,0,None,0,,枫树
+14,77,land,merchant,0,None,0,,
+17,70,land,plant,0,None,0,,橡树
+3,71,land,merchant,0,None,0,,
+4,74,land,merchant,0,None,0,,
+12,70,land,animal,0,None,0,,松鼠
+2,57,land,merchant,0,None,0,,
+6,63,land,merchant,0,None,0,,
+5,55,land,merchant,0,None,0,,
+10,62,land,merchant,0,None,0,,
+15,61,land,plant,0,None,0,,玫瑰
+14,52,land,merchant,0,None,0,,
+1,45,land,merchant,0,None,0,,
+3,50,land,merchant,0,None,0,,
+5,41,land,merchant,0,None,0,,
+10,42,land,merchant,0,None,0,,
+17,38,land,merchant,0,None,0,,
+25,35,land,plant,0,None,0,,松树
+10,31,land,merchant,0,None,0,,
+4,29,land,merchant,0,None,0,,
+1,21,land,merchant,0,None,0,,
+1,16,land,merchant,0,None,0,,
+1,12,land,animal,0,None,0,,松鼠
+1,9,land,plant,0,None,0,,小麦
+1,5,land,plant,0,None,0,,橡树
+4,8,land,plant,0,None,0,,松树
+4,13,land,animal,0,None,0,,羊
+4,16,land,merchant,0,None,0,,
+6,17,land,merchant,0,None,0,,
+10,17,land,animal,0,None,0,,熊
+7,14,land,animal,0,None,0,,牛
+7,12,land,merchant,0,None,0,,
+13,25,land,animal,0,None,0,,野兔
+12,27,land,animal,0,None,0,,熊
+14,26,land,plant,0,None,0,,玫瑰
+16,26,land,merchant,0,None,0,,
+11,21,land,plant,0,None,0,,葡萄藤
+13,22,land,merchant,0,None,0,,
+10,2,land,plant,0,None,0,,红蘑菇
+13,2,land,animal,0,None,0,,野兔
+16,2,land,plant,0,None,0,,卷心菜
+17,10,land,merchant,0,None,0,,
+19,17,land,merchant,0,None,0,,
+26,19,land,plant,0,None,0,,玉米
+34,23,land,merchant,0,None,0,,
+31,26,land,animal,0,None,0,,鹿
+40,21,land,plant,0,None,0,,红蘑菇
+28,20,land,merchant,0,None,0,,
+41,17,land,animal,0,None,0,,狐狸
+46,16,land,animal,0,None,0,,松鼠
+46,10,land,animal,0,None,0,,羊
+55,11,land,merchant,0,None,0,,
+47,2,land,animal,0,None,0,,野兔
+52,3,land,plant,0,None,0,,橡树
+53,6,land,merchant,0,None,0,,
+63,4,land,merchant,0,None,0,,
+56,3,land,plant,0,None,0,,白蘑菇
+61,6,land,animal,0,None,0,,狐狸
+71,2,land,animal,0,None,0,,野兔
+64,3,land,merchant,0,None,0,,
+61,31,land,animal,0,None,0,,牛
+59,28,land,animal,0,None,0,,熊
+61,27,land,merchant,0,None,0,,
+63,25,land,plant,0,None,0,,苹果
+66,29,land,merchant,0,None,0,,
+75,24,land,merchant,0,None,0,,
+74,18,land,plant,0,None,0,,卷心菜
+75,15,land,animal,0,None,0,,野兔
+85,17,land,plant,0,None,0,,红蘑菇
+85,25,land,animal,0,None,0,,松鼠
+81,22,land,plant,0,None,0,,松树
+81,19,land,merchant,0,None,0,,
+84,12,land,animal,0,None,0,,野兔
+86,8,land,merchant,0,None,0,,
+91,6,land,animal,0,None,0,,羊
+95,4,land,plant,0,None,0,,白蘑菇
+96,9,land,merchant,0,None,0,,
+96,13,land,merchant,0,None,0,,
+91,17,land,merchant,0,None,0,,
+87,21,land,merchant,0,None,0,,
+93,32,land,plant,0,None,0,,卷心菜
+96,32,land,merchant,0,None,0,,
+96,30,land,animal,0,None,0,,猪
+89,28,land,merchant,0,None,0,,
+89,34,land,merchant,0,None,0,,
+86,38,land,merchant,0,None,0,,
+80,38,land,plant,0,None,0,,葡萄藤
+73,34,land,plant,0,None,0,,玫瑰
+72,39,land,merchant,0,None,0,,
+74,42,land,plant,0,None,0,,小麦
+80,42,land,plant,0,None,0,,铃兰
+87,46,land,merchant,0,None,0,,
+86,48,land,animal,0,None,0,,猪
+84,51,land,animal,0,None,0,,熊
+92,54,land,merchant,0,None,0,,
+96,53,land,animal,0,None,0,,羊
+96,47,land,animal,0,None,0,,野兔
+98,39,land,merchant,0,None,0,,
+92,39,land,plant,0,None,0,,白蘑菇
+92,59,land,plant,0,None,0,,铃兰
+96,62,land,plant,0,None,0,,苹果
+92,64,land,merchant,0,None,0,,
+89,65,land,animal,0,None,0,,野兔
+84,69,land,plant,0,None,0,,胡萝卜
+84,63,land,merchant,0,None,0,,
+76,61,land,animal,0,None,0,,鸭
+75,56,land,plant,0,None,0,,苹果
+75,52,land,animal,0,None,0,,熊
+80,57,land,animal,0,None,0,,鸡
+73,45,land,plant,0,None,0,,白蘑菇
+71,75,land,merchant,0,None,0,,
+68,66,land,plant,0,None,0,,枫树
+74,65,land,plant,0,None,0,,玉米
+69,72,land,plant,0,None,0,,玫瑰
+58,72,land,plant,0,None,0,,松树
+58,76,land,plant,0,None,0,,苹果
+59,77,land,animal,0,None,0,,猪
+64,73,land,plant,0,None,0,,红蘑菇
+64,70,land,merchant,0,None,0,,
+62,75,land,plant,0,None,0,,白蘑菇
+49,76,land,animal,0,None,0,,鸡
+48,83,land,merchant,0,None,0,,
+46,78,land,merchant,0,None,0,,
+38,75,land,merchant,0,None,0,,
+37,73,land,merchant,0,None,0,,
+53,80,land,merchant,0,None,0,,
+55,77,land,animal,0,None,0,,牛
+57,91,land,merchant,0,None,0,,
+62,89,land,animal,0,None,0,,羊
+73,89,land,plant,0,None,0,,橡树
+74,92,land,plant,0,None,0,,红蘑菇
+87,96,land,animal,0,None,0,,鹿
+90,89,land,plant,0,None,0,,白蘑菇
+88,82,land,merchant,0,None,0,,
+89,76,land,plant,0,None,0,,葡萄藤
+95,74,land,plant,0,None,0,,卷心菜
+78,84,land,merchant,0,None,0,,
+78,92,land,plant,0,None,0,,玉米
+84,92,land,animal,0,None,0,,牛
+90,91,land,merchant,0,None,0,,
+93,91,land,plant,0,None,0,,玫瑰
+94,90,land,merchant,0,None,0,,
+95,89,land,plant,0,None,0,,玫瑰
+82,82,land,merchant,0,None,0,,
+73,83,land,plant,0,None,0,,枫树
+62,89,land,plant,0,None,0,,红蘑菇
+64,87,land,plant,0,None,0,,玫瑰
+70,85,land,plant,0,None,0,,小麦
+69,91,land,plant,0,None,0,,玫瑰
+74,98,land,merchant,0,None,0,,
+72,96,land,plant,0,None,0,,卷心菜
+85,98,land,plant,0,None,0,,枫树
+86,93,land,plant,0,None,0,,卷心菜
+88,96,land,plant,0,None,0,,葡萄藤
+90,96,land,merchant,0,None,0,,
+75,72,land,animal,0,None,0,,牛
+73,60,land,merchant,0,None,0,,
+72,51,land,plant,0,None,0,,白蘑菇
+76,43,land,plant,0,None,0,,小麦
+75,34,land,merchant,0,None,0,,
+74,33,land,merchant,0,None,0,,
+77,30,land,merchant,0,None,0,,
+72,25,land,animal,0,None,0,,鸭
+69,20,land,plant,0,None,0,,枫树
+70,18,land,merchant,0,None,0,,
+69,23,land,plant,0,None,0,,灌木
+50,10,land,animal,0,None,0,,鹿
+51,12,land,plant,0,None,0,,铃兰
+10,58,land,merchant,0,None,0,,
+16,56,land,animal,0,None,0,,牛
+16,66,land,plant,0,None,0,,玫瑰
+9,74,land,animal,0,None,0,,鸡
+10,89,land,animal,0,None,0,,松鼠
+10,85,land,animal,0,None,0,,松鼠
+25,84,land,plant,0,None,0,,白蘑菇
+22,83,land,merchant,0,None,0,,
+17,6,land,merchant,0,None,0,,
+14,6,land,plant,0,None,0,,小麦
+50,93,sea,animal,0,None,0,,青蛙
+53,97,sea,animal,0,None,0,,鸭子
+51,98,sea,animal,0,None,0,,皮皮虾
+52,96,sea,animal,0,None,0,,三文鱼
+57,97,sea,plant,0,None,0,,芦苇
+44,94,sea,animal,0,None,0,,三文鱼
+44,91,sea,animal,0,None,0,,三文鱼
+44,89,sea,merchant,0,None,0,,
+46,88,sea,animal,0,None,0,,鸭子
+39,84,sea,animal,0,None,0,,鸭子
+36,80,sea,plant,0,None,0,,水稻
+29,77,sea,animal,0,None,0,,鲫鱼
+31,75,sea,merchant,0,None,0,,
+31,79,sea,plant,0,None,0,,水稻
+32,76,sea,animal,0,None,0,,三文鱼
+27,64,sea,plant,0,None,0,,水葱
+23,64,sea,animal,0,None,0,,青蛙
+23,68,sea,merchant,0,None,0,,
+24,62,sea,merchant,0,None,0,,
+25,66,sea,animal,0,None,0,,皮皮虾
+28,67,sea,merchant,0,None,0,,
+20,54,sea,animal,0,None,0,,龙虾
+22,53,sea,plant,0,None,0,,海带
+23,53,sea,plant,0,None,0,,水葱
+25,52,sea,animal,0,None,0,,三文鱼
+23,46,sea,plant,0,None,0,,荷花
+22,50,sea,plant,0,None,0,,水稻
+24,49,sea,plant,0,None,0,,荷花
+25,46,sea,merchant,0,None,0,,
+26,47,sea,plant,0,None,0,,海带
+27,44,sea,plant,0,None,0,,芦苇
+25,40,sea,plant,0,None,0,,海带
+24,42,sea,animal,0,None,0,,鸭子
+29,36,sea,plant,0,None,0,,水葱
+32,35,sea,merchant,0,None,0,,
+34,37,sea,plant,0,None,0,,水稻
+36,35,sea,animal,0,None,0,,青蛙
+35,31,sea,animal,0,None,0,,青蛙
+41,30,sea,plant,0,None,0,,水稻
+38,32,sea,plant,0,None,0,,水葱
+41,26,sea,merchant,0,None,0,,
+46,24,sea,plant,0,None,0,,水稻
+50,26,sea,plant,0,None,0,,水葱
+51,23,sea,plant,0,None,0,,海带
+51,20,sea,plant,0,None,0,,芦苇
+53,18,sea,plant,0,None,0,,荷花
+53,24,sea,animal,0,None,0,,三文鱼
+58,15,sea,animal,0,None,0,,龙虾
+60,16,sea,merchant,0,None,0,,
+61,17,sea,animal,0,None,0,,青蛙
+64,12,sea,animal,0,None,0,,三文鱼
+62,15,sea,plant,0,None,0,,芦苇
+63,15,sea,plant,0,None,0,,水稻
+70,8,sea,animal,0,None,0,,三文鱼
+70,10,sea,plant,0,None,0,,荷花
+74,5,sea,plant,0,None,0,,海带
+74,9,sea,plant,0,None,0,,海带
+79,2,sea,plant,0,None,0,,荷花
+81,4,sea,merchant,0,None,0,,
+84,3,sea,merchant,0,None,0,,
+82,1,sea,merchant,0,None,0,,
+27,11,land,house,4,"[{'age': 60, 'gender': 'female'}, {'age': 48, 'gender': 'male'}, {'age': 43, 'gender': 'female'}, {'age': 13, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [27, 11], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+27,11,land,house,4,"[{'age': 60, 'gender': 'female'}, {'age': 48, 'gender': 'male'}, {'age': 43, 'gender': 'female'}, {'age': 13, 'gender': 'male'}]",1,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [27, 11], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+36,10,land,house,2,"[{'age': 8, 'gender': 'female'}, {'age': 62, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [36, 10], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+36,10,land,house,2,"[{'age': 8, 'gender': 'female'}, {'age': 62, 'gender': 'female'}]",1,"[{""featureType"": ""livestock"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [36, 10], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}]",
+24,5,land,house,3,"[{'age': 7, 'gender': 'male'}, {'age': 72, 'gender': 'male'}, {'age': 30, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [24, 5], ""envi"": ""land"", ""house"": null, ""plant"": ""小麦"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [24, 5], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鸡"", ""biomeType"": ""animal""}}]",
+24,5,land,house,3,"[{'age': 7, 'gender': 'male'}, {'age': 72, 'gender': 'male'}, {'age': 30, 'gender': 'female'}]",2,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 6, ""farmBiome"": {""position"": [24, 5], ""envi"": ""land"", ""house"": null, ""plant"": ""小麦"", ""animal"": null, ""biomeType"": ""plant""}}, {""featureType"": ""livestock"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 4, ""farmBiome"": {""position"": [24, 5], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""鸡"", ""biomeType"": ""animal""}}]",
+33,5,land,house,1,"[{'age': 6, 'gender': 'male'}]",2,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [33, 5], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}, {""featureType"": ""seaFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [33, 5], ""envi"": ""land"", ""house"": null, ""plant"": ""灌木"", ""animal"": null, ""biomeType"": ""plant""}}]",
+33,5,land,house,1,"[{'age': 6, 'gender': 'male'}]",2,"[{""featureType"": ""pond"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 5, ""farmBiome"": {""position"": [33, 5], ""envi"": ""land"", ""house"": null, ""plant"": null, ""animal"": ""松鼠"", ""biomeType"": ""animal""}}, {""featureType"": ""seaFarm"", ""position"": [2, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [33, 5], ""envi"": ""land"", ""house"": null, ""plant"": ""灌木"", ""animal"": null, ""biomeType"": ""plant""}}]",
+37,5,land,house,2,"[{'age': 53, 'gender': 'female'}, {'age': 29, 'gender': 'male'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [37, 5], ""envi"": ""land"", ""house"": null, ""plant"": ""玉米"", ""animal"": null, ""biomeType"": ""plant""}}]",
+37,5,land,house,2,"[{'age': 53, 'gender': 'female'}, {'age': 29, 'gender': 'male'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [37, 5], ""envi"": ""land"", ""house"": null, ""plant"": ""玉米"", ""animal"": null, ""biomeType"": ""plant""}}]",
+27,0,land,house,4,"[{'age': 10, 'gender': 'female'}, {'age': 74, 'gender': 'male'}, {'age': 23, 'gender': 'male'}, {'age': 19, 'gender': 'male'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [27, 0], ""envi"": ""land"", ""house"": null, ""plant"": ""玫瑰"", ""animal"": null, ""biomeType"": ""plant""}}]",
+27,0,land,house,4,"[{'age': 10, 'gender': 'female'}, {'age': 74, 'gender': 'male'}, {'age': 23, 'gender': 'male'}, {'age': 19, 'gender': 'male'}]",1,"[{""featureType"": ""landFarm"", ""position"": [0, 2], ""size"": [2, 2], ""count"": 7, ""farmBiome"": {""position"": [27, 0], ""envi"": ""land"", ""house"": null, ""plant"": ""玫瑰"", ""animal"": null, ""biomeType"": ""plant""}}]",

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20996e70ea4e15348aec437b45f7af9e, type: 3}
+  m_Name: Hoe
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: hoe
+  desc: Scythe
+  thumbnail: {fileID: 21300000, guid: e11b2f4dc8ca4d078e6d7cfafddac2b4, type: 3}
+  gameModel: {fileID: 1000011817031034, guid: 6786198d46dc468488b983c5c71af7ce, type: 3}
+  itemId: 519212a7f27d6fe429b9b558234b3d80
+  toolType: 2
+  durable: 0
+  strength: 0
+  consume: 0
+  weapon:
+    sprite: {fileID: 21300000, guid: e11b2f4dc8ca4d078e6d7cfafddac2b4, type: 3}
+    animName: ScytheAttack
+  initPosition: {x: 0, y: 0, z: 0}
+  initRotation: {x: 0, y: 0, z: 0, w: 0}
+  damage: 29
+  waste: {fileID: 11400000, guid: 6f039c639ac0fdf4e8196c990a43dabf, type: 2}
+  maxStackingCount: 1
