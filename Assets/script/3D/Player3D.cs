@@ -5,6 +5,7 @@ using UnityEngine;
 public class Player3D : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 5.0f;
+    [SerializeField] private float rotationSpeed = 15.0f;
 
     private CharacterController cc;
     private Animator anim;
@@ -27,13 +28,17 @@ public class Player3D : MonoBehaviour
         {
             anim.SetBool("Idle", false);
             anim.SetBool("Walk", true);
+
+            Quaternion targetRotation = Quaternion.LookRotation(moveDirection);
+            transform.rotation = Quaternion.Lerp(transform.rotation, targetRotation, Time.deltaTime * rotationSpeed);
         }
         else
         {
             anim.SetBool("Idle", true);
             anim.SetBool("Walk", false);
         }
-
+        
+        moveDirection.y -= Physics.gravity.y;
         cc.Move(moveSpeed * Time.deltaTime * moveDirection);
     }
 }
