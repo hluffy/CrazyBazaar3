@@ -4,22 +4,42 @@ using UnityEngine;
 
 public class Player3D : MonoBehaviour
 {
-    [SerializeField] private float moveSpeed = 5.0f;
-    [SerializeField] private float rotationSpeed = 15.0f;
+    [Header("Move Info")]
+    public float moveSpeed = 5.0f;
+    public float rotationSpeed = 15.0f;
 
-    private CharacterController cc;
-    private Animator anim;
+    #region 组件
+    public CharacterController cc { get; private set; }
+    public Animator anim { get; private set; }
+    #endregion
+
+    #region 状态
+    public Player3DStateMachine stateMachine { get; private set; }
+    public Player3DIdleState idleState { get; private set; }
+    public Player3DWalkState walkState{ get; private set; }
+    #endregion
+
+    void Awake()
+    {
+        cc = GetComponent<CharacterController>();
+        anim = GetComponent<Animator>();
+
+        stateMachine = new Player3DStateMachine();
+        idleState = new Player3DIdleState(stateMachine,this,"Idle");
+        walkState = new Player3DWalkState(stateMachine,this,"Walk");
+    }
 
     // Start is called before the first frame update
     void Start()
     {
-        cc = GetComponent<CharacterController>();
-        anim = GetComponent<Animator>();
+        stateMachine.Initialize(idleState);
     }
 
     // Update is called once per frame
     void Update()
     {
+        stateMachine.currentState.Update();
+
         float horizontal = Input.GetAxisRaw("Horizontal");
         float vertical = Input.GetAxisRaw("Vertical");
 
