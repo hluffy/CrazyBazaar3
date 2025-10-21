@@ -14,7 +14,7 @@ public class Player3DStateMachine
     
     public void ChangeState(Player3DState _newState)
     {
-         // Debug.Log(currentState + "=>" + _newState);
+         Debug.Log(currentState + "=>" + _newState);
         currentState.Exit();
         currentState = _newState;
         currentState.Enter();

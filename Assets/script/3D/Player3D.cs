@@ -16,7 +16,8 @@ public class Player3D : MonoBehaviour
     #region 状态
     public Player3DStateMachine stateMachine { get; private set; }
     public Player3DIdleState idleState { get; private set; }
-    public Player3DWalkState walkState{ get; private set; }
+    public Player3DWalkState walkState { get; private set; }
+    public Player3DAttackState attackState{ get; private set; }
     #endregion
 
     void Awake()
@@ -26,7 +27,8 @@ public class Player3D : MonoBehaviour
 
         stateMachine = new Player3DStateMachine();
         idleState = new Player3DIdleState(stateMachine,this,"Idle");
-        walkState = new Player3DWalkState(stateMachine,this,"Walk");
+        walkState = new Player3DWalkState(stateMachine, this, "Walk");
+        attackState = new Player3DAttackState(stateMachine, this, "Attack");
     }
 
     // Start is called before the first frame update
